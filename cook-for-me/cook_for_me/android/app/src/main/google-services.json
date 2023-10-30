@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "399064326894",
+    "project_id": "foodbnb-web-app",
+    "storage_bucket": "foodbnb-web-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399064326894:android:84a1f9a3108f0bd01109ff",
+        "android_client_info": {
+          "package_name": "com.Varrshinie.foodbnb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFzfnTqhT57dvvvdBX1KvWfj1gkPz5O2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
