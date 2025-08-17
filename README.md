@@ -25,23 +25,17 @@ The app provides a **user-friendly platform** for exploring food items and inclu
 - Android Studio / VS Code with Flutter extension  
 
 ### Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/FoodBNB.git
-   cd FoodBNB
 
-2. Install dependencies:
-  ```bash
-  flutter pub get
+# 1. Clone the repository:
+git clone https://github.com/YourUsername/FoodBNB.git
+cd FoodBNB
 
+# 2. Install dependencies:
+flutter pub get
 
-3. Configure Firebase:
+# 3. Configure Firebase:
+#    - Add google-services.json (Android) in android/app/
+#    - Add GoogleService-Info.plist (iOS) in ios/Runner/
 
-Add google-services.json (Android) in android/app/.
-
-Add GoogleService-Info.plist (iOS) in ios/Runner/.
-
-4. Run the app:
-  ```bash
-  flutter run
-  
+# 4. Run the app:
+flutter run
