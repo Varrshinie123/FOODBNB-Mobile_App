@@ -31,8 +31,8 @@ The app provides a **user-friendly platform** for exploring food items and inclu
    cd FoodBNB
 
 2. Install dependencies:
-
-flutter pub get
+  ```bash
+  flutter pub get
 
 
 3. Configure Firebase:
@@ -42,5 +42,6 @@ Add google-services.json (Android) in android/app/.
 Add GoogleService-Info.plist (iOS) in ios/Runner/.
 
 4. Run the app:
-
-flutter run
+  ```bash
+  flutter run
+  
