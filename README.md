@@ -26,16 +26,16 @@ The app provides a **user-friendly platform** for exploring food items and inclu
 
 ### Setup
 
-# 1. Clone the repository:
+#### 1. Clone the repository:
 git clone https://github.com/YourUsername/FoodBNB.git
 cd FoodBNB
 
-# 2. Install dependencies:
+#### 2. Install dependencies:
 flutter pub get
 
-# 3. Configure Firebase:
-#    - Add google-services.json (Android) in android/app/
-#    - Add GoogleService-Info.plist (iOS) in ios/Runner/
+#### 3. Configure Firebase:
+    - Add google-services.json (Android) in android/app/
+    - Add GoogleService-Info.plist (iOS) in ios/Runner/
 
-# 4. Run the app:
+#### 4. Run the app:
 flutter run
